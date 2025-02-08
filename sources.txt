@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/iptv-org/iptv/master/channels/jp.m3u
+https://live.fanmingming.com/tv/m3u/jp.m3u
+https://iptv.aknet.xyz/jp.m3u
